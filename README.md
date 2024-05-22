@@ -1,7 +1,7 @@
 
 # Brutus the Plumber
 
-This is a video walkthrough of the Brutus the Plumber project I created in my Systems I: Introduction to Low-Level Programming and Computer Organization (CSE 2421) class at The Ohio State University. The application is made in C and uses a Makefile to compile all the relevant files into an executable. It makes use of a provided library for the graphics. This project was created as a way to get familiar with the C language in a variety of ways including static variables, arrays, linked lists, function pointers, and more.
+This is the code repository of the Brutus the Plumber project I created in my Systems I: Introduction to Low-Level Programming and Computer Organization (CSE 2421) class at The Ohio State University. The application is made in C and uses a Makefile to compile all the relevant files into an executable. It makes use of a provided library for the graphics. This project was created as a way to get familiar with the C language in a variety of ways including static variables, arrays, linked lists, function pointers, and more.
 
 ## What Is It & How It Works
 This code will simulate Brutus in motion with different starting conditions, which will be read in and 
